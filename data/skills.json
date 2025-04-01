@@ -1,0 +1,31 @@
+[
+  {
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "Java","Python","Solidity","javascript"]
+  },{
+      "grouping":"Architecture",
+      "skills":[ "Microservices","RESTful APIs","SaaS/PaaS","Blockchain"]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":[ "Atlassian","Bitbucket","NGINX","MySQL"]
+  },
+  {
+      "grouping":"Data Management",
+      "skills":[
+        {"name":"Microsoft SQL Server","icon":"msql_server"},
+        {"name":"Oracle","icon":"database"},
+        "MongoDB",
+        {"name":"Apache Spark"}
+      ]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          {"name":"Docker","link":"https://docker.com"},
+          {"name":"AWS","link":"https://aws.amazon.com"},
+          {"name":"Oracle Cloud","link":"https://www.oracle.com/in/cloud/"},
+          {"name":"Linux","link":"https://bosh.io"}
+      ]
+  }
+]

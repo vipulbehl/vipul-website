@@ -1,0 +1,20 @@
+[
+    {
+        "role":"Senior Member of Technicall Staff",
+        "company":"Oracle",
+        "summary":"\n - Designed and developed export/import functionality for OCI Data Integration Service to facilitate reuse of DIS artifacts \n - Developed templates feature for OCI Data Integration service to allow users to create DI applications from pre-defined templates \n - Involved in service improvements and support for DIS",
+        "range":"April 2022 - Present"
+    },
+    {
+        "role":"Software Engineer II",
+        "company":"Cisco Systems",
+        "summary":"\n - Worked on integrating o365 telemetry data with Cisco’s SDWAN data to optimize data path selection \n - Worked on writing various correlations for vAnalytics (Cisco’s SDWAN Analytics Engine)\n - Optimized ETL processing for vAnalytics leading to 40% reduction in processing time \n - Worked on developing simulator for vManage scale testing",
+        "range":"September 2020 - April 2022"
+    },
+    {
+        "role":"Software Engineer",
+        "company":"Persistent Systems",
+        "summary":"\n - Worked on developing/maintaining features for IBM Content Classification (ICC)\n - Developed functionality to get data from IBM Datacap and classify using ICC\n - Actively involved in creation of Knowledge Base and Decision Plan for ICC clients",
+        "range":"November 2016 - July 2018"
+    }
+]
