@@ -1,5 +1,5 @@
 title = "Vipul Behl"
-baseURL = "https://example.com/"
+baseURL = "https://vipulbehl.com/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
@@ -9,18 +9,18 @@ enableGitInfo = false
 
 [params]
 address = "Banglore, India"
-email = "email@domain.com"
+#email = "email@domain.com"
 favicon = "/favicon.ico"
 firstName = "Vipul"
 lastName = "Behl"
-phone = "1-555-555-1234"
+phone = ""
 profileImage = "img/VipulBehl.jpg"
 showQr = false
 showContact = true
 showBoards  = false
 showCertifications = false
 showSocializations = true
-sections = ["creations", "experience","skills","education","blog"]
+sections = ["creations", "experience","skills","education"]
 
 
 [params.google]
