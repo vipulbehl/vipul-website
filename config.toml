@@ -9,8 +9,8 @@ enableGitInfo = false
 
 [params]
 address = "Banglore, India"
-#email = "email@domain.com"
-favicon = "/favicon.ico"
+email = "vipul@vipulbehl.com"
+favicon = "img/favicon.png"
 firstName = "Vipul"
 lastName = "Behl"
 phone = ""
@@ -31,10 +31,12 @@ trackerID = "XX-123446-01"
 [[params.handles]]
     name = "LinkedIn"
     link = "https://www.linkedin.com/in/vipul-behl/"
+    icon = "linkedin"
 
 [[params.handles]]
     name = "GitHub"
     link = "https://github.com/vipulbehl"
+    icon = "github"
 
 [[params.handles]]
     link = "https://x.com/vipul_behl"
