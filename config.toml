@@ -8,7 +8,7 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Banglore, India"
+address = "India"
 email = "vipul@vipulbehl.com"
 favicon = "img/favicon.png"
 firstName = "Vipul"
@@ -26,7 +26,7 @@ sections = ["creations", "experience","skills","education"]
 [params.google]
 
 [params.google.analytics]
-trackerID = "XX-123446-01"
+trackerID = "360049465"
 
 [[params.handles]]
     name = "LinkedIn"
